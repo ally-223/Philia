@@ -1,2 +1,2 @@
-# Philo
-Philo 1.0
+# Phila
+Philia 1.0
